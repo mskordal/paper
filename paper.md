@@ -1,5 +1,10 @@
 #Title
-This is a master title about airctafts
+Aircraft measurements and simulations
 
 #Author
-Emmmanouil Skordalakis
+John Smith
+Emmanouil Skordalakis
+
+#Simulations
+We simulate the evolution of particle sizes as they are
+transported  away from the sun
