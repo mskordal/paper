@@ -15,3 +15,5 @@ I was really motivated to do this for no apparent reason
 We simulate the evolution of particle sizes as they are
 transported  away from the sun
 
+#Methodology
+Something is written here dont know why
