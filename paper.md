@@ -4,6 +4,7 @@ Aircraft measurements and simulations
 #Author
 John Smith
 Emmanouil Skordalakis
+Another author wtf
 
 #Introduction
 Some initial thoughts about this that dont mater
