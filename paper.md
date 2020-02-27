@@ -5,6 +5,13 @@ Aircraft measurements and simulations
 John Smith
 Emmanouil Skordalakis
 
+#Introduction
+Some initial thoughts about this that dont mater
+
+#Motivation
+I was really motivated to do this for no apparent reason
+
 #Simulations
 We simulate the evolution of particle sizes as they are
 transported  away from the sun
+
