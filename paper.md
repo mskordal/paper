@@ -1,8 +1,6 @@
-This is a git tutorial
-Emmanouil Skordalakis
-
-An extra modification
-this is the second modif
+#Title
+This is a git tutorial by Emmanouil Skordalakis
 
 #Author
 John Smith
+Emmanouil Skordalakis
