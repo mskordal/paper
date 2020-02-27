@@ -2,8 +2,8 @@
 Aircraft measurements and simulations
 
 #Author
-John Smith
 Emmanouil Skordalakis
+John Smith
 
 #Introduction
 Some initial thoughts about this that dont mater
